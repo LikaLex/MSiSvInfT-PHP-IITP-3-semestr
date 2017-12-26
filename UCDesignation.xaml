@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="MSiSvInfT.UCDesignation"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MSiSvInfT">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="15"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Grid.Column="0" FontSize="18" BorderThickness="0" x:Name="Left" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" TextWrapping="Wrap"/>
+        <Label x:Name="Center" Grid.Column="1" Content="-" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox BorderThickness="0" Grid.Column="2" x:Name="Right" FontSize="18" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" TextWrapping="Wrap"/>
+    </Grid>
+</UserControl>

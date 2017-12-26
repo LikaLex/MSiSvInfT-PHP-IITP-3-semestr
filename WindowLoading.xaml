@@ -1,0 +1,9 @@
+﻿<Window x:Class="MSiSvInfT.WindowLoading"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:MSiSvInfT"
+        Title="Загрузка" Height="80" Width="300" WindowStyle="None" Cursor="AppStarting" WindowStartupLocation="CenterScreen" Topmost="True" ShowInTaskbar="False" ResizeMode="NoResize" IsTabStop="False" BorderThickness="2">
+    <Grid>
+        <TextBlock Text="Загрузка..." FontSize="28" FontStyle="Italic" FontWeight="Heavy" Foreground="DarkMagenta" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Window>

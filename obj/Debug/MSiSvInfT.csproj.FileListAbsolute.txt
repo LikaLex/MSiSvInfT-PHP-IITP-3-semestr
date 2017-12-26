@@ -1,0 +1,64 @@
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\bin\Debug\System.ValueTuple.dll
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\bin\Debug\System.ValueTuple.xml
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\MainWindow.g.cs
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\UCDesignation.g.cs
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\UCLabelWithTextBox.g.cs
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\WindowHolstedMetrics.g.cs
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\WindowJilbsMetric.g.cs
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\WindowChapinsMetric.g.cs
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\WindowLoading.g.cs
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\WindowSpenMetric.g.cs
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\App.g.cs
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\MainWindow.baml
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\UCDesignation.baml
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\UCLabelWithTextBox.baml
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\WindowJilbsMetric.baml
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\WindowChapinsMetric.baml
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\WindowSpenMetric.baml
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\WindowLoading.baml
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\WindowHolstedMetrics.baml
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\MSiSvInfT.csproj.GenerateResource.Cache
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\MSiSvInfT.csproj.CoreCompileInputs.cache
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\bin\Debug\MSiSvInfT.exe.config
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\bin\Debug\MSiSvInfT.exe
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\bin\Debug\MSiSvInfT.pdb
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\MSiSvInfT_MarkupCompile.cache
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\MSiSvInfT_MarkupCompile.lref
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\MSiSvInfT.g.resources
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\MSiSvInfT.Properties.Resources.resources
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\MSiSvInfT.exe
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\MSiSvInfT.pdb
+D:\учеба\МСиСвИнфТ_2017\Задание №1\Метрика Джилба\JilbMetric\JilbMetric\obj\Debug\MSiSvInfT.csprojResolveAssemblyReference.cache
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\bin\Debug\MSiSvInfT.exe.config
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\bin\Debug\MSiSvInfT.exe
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\bin\Debug\MSiSvInfT.pdb
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\bin\Debug\System.ValueTuple.dll
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\bin\Debug\System.ValueTuple.xml
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\MSiSvInfT.csprojResolveAssemblyReference.cache
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\MainWindow.g.cs
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\UCDesignation.g.cs
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\UCLabelWithTextBox.g.cs
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\WindowHolstedMetrics.g.cs
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\WindowJilbsMetric.g.cs
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\WindowChapinsMetric.g.cs
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\WindowLoading.g.cs
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\WindowSpenMetric.g.cs
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\App.g.cs
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\MSiSvInfT_MarkupCompile.cache
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\MSiSvInfT_MarkupCompile.lref
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\MainWindow.baml
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\UCDesignation.baml
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\UCLabelWithTextBox.baml
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\WindowHolstedMetrics.baml
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\WindowJilbsMetric.baml
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\WindowChapinsMetric.baml
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\WindowLoading.baml
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\WindowSpenMetric.baml
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\MSiSvInfT.g.resources
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\MSiSvInfT.Properties.Resources.resources
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\MSiSvInfT.csproj.GenerateResource.Cache
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\MSiSvInfT.csproj.CoreCompileInputs.cache
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\MSiSvInfT.exe
+D:\учеба\МСиСвИнфТ_2017\Программа\MSiSvInfT\obj\Debug\MSiSvInfT.pdb
